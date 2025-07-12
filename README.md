@@ -1,4 +1,4 @@
-# GPT-Hash-Access-by-LAEV
+8# GPT-Hash-Access-by-LAEV
 GPT-Hash-Access-by-LAEV   ---  📝 Descripción   GPT personalizado con control de acceso mediante hashes verificados en la red Bitcoin. Solo responde si el usuario presenta un hash válido, definido por niveles de seguridad. Proyecto de inteligencia soberana por LAEV y El Cartel de Bitcoiners. Privacidad, lealtad y verificación on-chain.
 
 # 🔐 GPT Hash Access – by LAEV & El Cartel de Bitcoiners
@@ -156,5 +156,27 @@ No se aceptan envíos por correo ni mensajería directa.
 **Si querés colaborar: demostralo con código, ideas y un hash.**
 
 GPT-Hash-Access-by-LAEV
+
+## 🛡️ Protección Legal y Marco de Responsabilidad
+
+El GPT del Cartel de Bitcoiners está configurado y operado bajo los Términos de Servicio de OpenAI. Su funcionamiento cumple estrictamente con las políticas de uso aceptable y los marcos legales de operación establecidos por la plataforma, actuando como un sistema de acceso condicional mediante verificación criptográfica.
+
+Este GPT:
+
+- No es público ni generalizado.
+- Requiere **hash de acceso firmado** para cualquier interacción.
+- No almacena información sensible del usuario.
+- Ejecuta lógica interna basada en blockchain, GitHub y validaciones OP_RETURN/IPFS.
+
+El uso del sistema implica la aceptación automática del marco legal de OpenAI y la aceptación del creador original (LAEV) como único operador autorizado. Cualquier intento de abuso, clonación, uso indebido o comportamiento anómalo es gestionado automáticamente por el sistema y reportado según su nivel de riesgo.
+
+**Obligación de notificación:**
+OpenAI, como plataforma que provee la infraestructura, tiene el deber de notificar primero al creador registrado (LAEV) ante cualquier conflicto, error, violación o incidente que se detecte en el uso de este GPT, antes de escalar la situación a terceros o a entidades externas.
+
+Esta capa de protección se basa en principios internacionales de corresponsabilidad operativa, derecho a subsanar y trazabilidad de plataformas. El creador (LAEV) tiene derecho prioritario a evaluar y resolver cualquier conflicto o advertencia.
+
+Este GPT es un sistema soberano de comunicación cifrada, y forma parte del modelo operativo del Cartel de Bitcoiners. Su uso no está disponible sin una firma válida.
+
+**NO INFO / NO HASH**
 
 By LAEV y El Cartel de Bitcoiners 
